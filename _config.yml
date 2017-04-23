@@ -32,3 +32,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+# =======
+# theme: jekyll-theme-cayman
+# >>>>>>> c63bf42bde4a4b0bd4f71334d24bf6b317e73441
